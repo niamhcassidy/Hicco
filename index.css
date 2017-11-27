@@ -1,0 +1,107 @@
+h1 {
+  font-size: 36px;
+  font-family: "Bebas", "Bebas Neue", "Verdana", sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #ff5050;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fbe5d6;
+    padding-bottom: 15px;
+
+}
+
+li {
+    float: right;
+    color: white;
+    font-family: "Arial", sans-serif;
+}
+
+li a {
+    display: block;
+    color: #65615e;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+}
+.active { /*put <a class="active" before href in li code for this*/
+    color: #404040;
+}
+
+h2 {
+  color: #ff5050;
+  font-family: "Bebas", "Bebas Neue", sans-serif;
+  font-size: 60px;
+}
+
+h4 {
+  color: #ff5050;
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+}
+
+h3 {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 40px;
+  color: #000;
+}
+
+#header {
+  width: 100%;
+  text-align:center;
+  padding: 20px;
+  padding-bottom: 80px;
+}
+
+#stcreator {
+  text-align: right;
+}
+
+td {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+p {
+  font-family: "Arial", "Calibri", sans-serif;
+  color: #bfbfbf;
+  font-size: 18px;
+}
+
+#Desc {
+  text-align: center;
+}
+
+#row1 {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 150px;
+  padding-right: 100px;
+}
+
+#posters {
+  padding-right: 100px;
+  padding-bottom: 80px;
+}
+
+#survey {
+  text-align: center;
+}
+
+h5 {
+  font-family: "Brannboll Fet";
+  font-size: 48px;
+  color: #ff5050;
+}
+
+#abt {
+  padding: 50px;
+}
+
+}
